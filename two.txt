@@ -6,9 +6,6 @@ two - 2ss
 two
 2
 
-<<<<<<< HEAD
-i have change this Development branch...
-=======
 i have change this staging branch...
->>>>>>> staging
+
 >>>>>>> main
